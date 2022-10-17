@@ -1,0 +1,8 @@
+"Title","ID (Sidebar Items)","Title (Sidebar Items)","Route (Sidebar Items)","Group (Sidebar Items)"
+"ECTA sidebar","8530df3769","Dispatches","/exporter/dispatches","Exporter"
+"","55a65d41dc","Employee","/exporter/employee","Exporter"
+"","72f6242922","Balance","/balance","ECTA"
+"","0ad1b871c6","Ecta Local","/ecta","ECTA"
+"","68e46c8f63","Ecta Broad","/abroadECTA","ECTA"
+"","397def0900","Warehouse","/warehouse","warehouse"
+"","aac151ad99","Outgoings","/outgoings","warehouse"
